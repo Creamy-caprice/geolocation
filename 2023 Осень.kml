@@ -4145,5 +4145,112 @@ https://t.me/Dnepro_Rub/1305</name>
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>27,09,23 Артёмовск - Клещеевка
+
+Боевые действия на южном фланге обороны Артёмовска.
+Ситуация вокруг Клещеевки.
+Поражение FPV-дроном ВС РФ оставленной боевой машины пехоты ВСУ в южной части посёлка.
+
+ 48.51604, 37.94697 
+
+Источник https://t.me/sudoplatov_official/542
+Геопривязка (https://t.me/c/1823685609/26048)</name>
+      <description>https://t.me/creamy_caprice/2362</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.94697,48.51604,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>28,09,23 Купянск - Купянск-Узловой
+
+Боевые действия в глубине обороны ВСУ.
+Ракетный удар Х-38 с авиационного носителя по наведённой мостовой переправе в районе Купянска через реку Оскол.. Попадание и разрушение моста при удалении около 15км от линии боевого соприкосновения.
+
+ 49.65763, 37.62559 
+
+Источник https://t.me/Aviahub34/1422
+Геопривязка (https://t.me/c/1823685609/26080)</name>
+      <description>https://t.me/creamy_caprice/2364</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.62559,49.65763,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>29,09,23 Артёмовск - Клещеевка
+
+Боевые действия на южном фланге обороны Артёмовска
+Обстрел со стороны ВС РФ бронетехники ВСУ на исходных позициях. Попадание в бронемашину. Детонация боекомплекта, уничтожение .
+
+ 48.51759, 37.93222
+
+Источник https://t.me/mod_russia/30900
+Геопривязка (https://t.me/c/1903932759/80171)</name>
+      <description>https://t.me/creamy_caprice/2366</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.93222,48.51759,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>28,09,23 Артёмовск - Дубово-Васильевка - Богдановка
+
+Позиционные боевые действия на северном фланге обороны Артёмовска.
+Опорный пункт ВСУ под огнём артиллерии ВС РФ.
+Две единицы техники ВСУ уничтоженные ранее.
+
+ 48.65169, 37.88474 
+
+Источник https://t.me/Tourists51/59</name>
+      <description>https://t.me/creamy_caprice/2368</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.88474,48.65169,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>29,09,23 Орехов - Новоданиловка - Копани - Нестерянка
+
+Наступление ВСУ на Ореховском направлении.
+Штурмовое пехотное подразделение ВСУ в направлении атаки в район посёлка Копани под обстрелом FPV-дроном ВС РФ.
+
+ 47.49154, 35.77694 
+
+ Источник https://t.me/BOBRMORF/271</name>
+      <description>https://t.me/creamy_caprice/2376</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          35.77694,47.49154,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>29,09,23 Великая Новосёлка
+
+Позиционные боевые действия на Великоновосёлковском направлении.
+Обстрел позиции ВСУ артиллерией ВС РФ севернее Приюного.
+
+ 47.75069, 36.66472 
+
+Источник https://t.me/Vmsd127/129</name>
+      <description>https://t.me/creamy_caprice/2378</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          36.66472,47.75069,0
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
