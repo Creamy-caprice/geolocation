@@ -1070,7 +1070,7 @@ Je suis Клещеевка от ПнВ.
 
  47.51873, 35.5103</name>
       <description>https://t.me/creamy_caprice/2049</description>
-      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <styleUrl>#icon-1739-FF5252</styleUrl>
       <Point>
         <coordinates>
           35.5103032,47.518738,0
@@ -4500,6 +4500,254 @@ https://t.me/creamy_caprice/2380?single&comment=26283]]></name>
       <Point>
         <coordinates>
           36.834777,47.8348,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[30,09,23 Гуляй-поле - Дорожнянка.
+
+Позиционные боевые действия на Гуляйпольском направлении.
+Применение тяжелой огнеметной системы "Солнцепек" для нанесения огневого поражения ВСУ на позиции в районе населённого пункта Дорожнянка.
+
+ 47.595003, 36.234230 
+
+Источник https://t.me/ZA_FROHT/22368
+Геопривязка (https://t.me/c/1823685609/26433)]]></name>
+      <description>https://t.me/creamy_caprice/2406</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          36.23423,47.595003,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>29,09,23 Горловка - Майорск - канал Северский Донец-Донбасс
+
+Позиционные боевые действия в районе Майорска на Горловском направлении. 
+Обстрел позиции ВСУ в технических помещениях на насосной станции третьего подъёма канала Северский Донец-Донбасс.
+
+ 48,4065365 37,9478482 
+ 
+Источник https://t.me/RtrDonetsk/20559
+Геопривязка (https://t.me/c/1823685609/26250)</name>
+      <description>https://t.me/creamy_caprice/2408</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.9478482,48.4065365,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>30,09,23 Курахово - Янтарное
+
+Боевые действия в глубине обороны ВСУ.
+Ракетный удар по полевому лагерю ВСУ, поражение техники и личного состава.
+Удаление от линии боевого соприкосновения не менее 25 км.
+
+ 47.96299, 37.15461 
+
+Источник https://t.me/mod_russia/31011
+Геопривязка (https://t.me/c/1823685609/26458?thread=26374)</name>
+      <description>https://t.me/creamy_caprice/2410</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.15461,47.96299,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>01,10,23 Орехов - Вербовое
+
+Наступление ВСУ на Ореховском направлении.
+Ротация украинских военнослужащих на технике образца осени 2023 в составе ВСУ на позиции к западу от Вербового под обстрелом со стороны ВС РФ. 
+Геопривязка по https://t.me/creamy_caprice/2271
+
+ 47.43567, 35.92741 
+
+Источник https://t.me/KLYONKLEN/23
+Геопривязка (https://t.me/c/1823685609/26491)</name>
+      <description>https://t.me/creamy_caprice/2412</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          35.92741,47.43567,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>01,10,23 Авдеевка - Опытное.
+
+Позиционные боевые действия на южном охвате Авдеевки.
+Позиции ВСУ на окраинах Опытного под обстрелом артиллерии ВС РФ.
+Согласно https://t.me/creamy_caprice/2327 кадры могут быть архивными и сняты 25,09,23 или ранее.
+
+ 48.10067, 37.72152 
+
+ 48.09874, 37.73297 
+
+Источник https://t.me/rian_ru/216903
+Геопривязка (https://t.me/DonbassYasinovatayanaliniiOgnia/44212)</name>
+      <description>https://t.me/creamy_caprice/2414</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.72152,48.10067,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>01,10,23 Авдеевка - Опытное.
+
+Позиционные боевые действия на южном охвате Авдеевки.
+Позиции ВСУ на окраинах Опытного под обстрелом артиллерии ВС РФ.
+Согласно https://t.me/creamy_caprice/2327 кадры могут быть архивными и сняты 25,09,23 или ранее.
+
+ 48.10067, 37.72152 
+
+ 48.09874, 37.73297 
+
+Источник https://t.me/rian_ru/216903
+Геопривязка (https://t.me/DonbassYasinovatayanaliniiOgnia/44212)</name>
+      <description>https://t.me/creamy_caprice/2414?single</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.73297,48.09874,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>01,10,23 Работино - Вербовое - Новопокровка
+
+Наступление ВСУ на Ореховском направлении.
+Активные боевые действия на рубеже Новопокровка - Вербовое. Атака ВСУ в направлении позиции ВС РФ малой пехотной группой. Контактный стрелковый бой. Артобстрел штурмовой группы артиллерией ВС РФ. Отход атакующих сил.
+Военная техника уничтоженная ранее.
+
+ 47.47801, 35.92506 
+
+Источник https://t.me/RVvoenkor/53945</name>
+      <description>https://t.me/creamy_caprice/2416</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          35.92506,47.47801,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>01,10,23 Харьков - Холодная Гора
+
+Боевые действия в глубине обороны ВСУ.
+Повторный ракетный удар по производственным помещения Харьковского бронетанкового завода.
+Предыдущий удар https://t.me/creamy_caprice/2241?single был нанесен 21,09,23 по соседнему цеху.
+
+ 50.0226703, 36.1898734 
+
+Источник https://t.me/vysokygovorit/12982
+Геопривязка (https://t.me/c/1823685609/26521)</name>
+      <description>https://t.me/creamy_caprice/2418</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          36.1898734,50.0226703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[01,10,23 Марьинка - Новомихайловка - Победа.
+
+Позиционные боевые действия на Марьинском направлении.
+Серия ударов FPV-дронами ВС РФ по позиция ВСУ в укрепрайоне "Зверинец".
+
+ 47.8843, 37.52804 
+
+Источник https://t.me/sudoplatov_official/580]]></name>
+      <description>https://t.me/creamy_caprice/2420</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.52804,47.8843,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>01,10,23 Артёмовск - Андреевка
+
+Позиционные боевые действия на южном фланге обороны Артёмовска.
+Обстрел артиллерией ВС РФ позиции штурмового пехотного подразделения ВСУ восточнее железнодорожной насыпи в районе Андреевки.
+
+ 48.5143207, 37.9757816 
+
+Источник https://t.me/frontline_pvt/455
+Геопривязка (https://t.me/c/1823685609/26555)</name>
+      <description>https://t.me/creamy_caprice/2422</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.9757816,48.5143207,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>01,10,23 Артёмовск - Клещеевка
+
+Активные боевые действия на южном фланге обороны Артёмовска. 
+Атака ВСУ пехотным подразделением к северу от Клещеевки в направлении позиции ВС РФ в районе железнодорожного полотна. Артиллерийский обстрел со стороны ВС РФ штурмовой группы.
+
+ 48.54658, 37.96189 
+
+Дополнительно
+
+ 48.5457, 37.9616 
+
+Источник https://t.me/z4lpr/667</name>
+      <description>https://t.me/creamy_caprice/2424</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.96189,48.54658,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>01,10,23 Артёмовск - Клещеевка
+
+Активные боевые действия на южном фланге обороны Артёмовска. 
+Атака ВСУ пехотным подразделением к северу от Клещеевки в направлении позиции ВС РФ в районе железнодорожного полотна. Артиллерийский обстрел со стороны ВС РФ штурмовой группы.
+
+ 48.54658, 37.96189 
+
+Дополнительно
+
+ 48.5457, 37.9616 
+
+Источник https://t.me/z4lpr/667</name>
+      <description>https://t.me/creamy_caprice/2424?single</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.9616,48.5457,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>01,10,23 Марьинка - Победа
+
+Позиционные боевые действия на Марьинском направлении.
+Обстрел со стороны ВС РФ позиций ВСУ в посёлке Победа. Поражение склада боеприпасов. Вторичная детонация.
+
+ 47.9159, 37.4639 
+
+Источник https://t.me/tankistrossii100/2026
+Геопривязка (https://t.me/c/1823685609/26573)</name>
+      <description>https://t.me/creamy_caprice/2426</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.4639,47.9159,0
         </coordinates>
       </Point>
     </Placemark>
