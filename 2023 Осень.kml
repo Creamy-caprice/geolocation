@@ -7367,5 +7367,22 @@ https://t.me/creamy_caprice/2454?single
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>15,10,23 Артёмовск - Клещеевка.
+
+Позиционные боевые действия на южном фланге обороны Артёмовска.
+Обстрел позиции ВСУ восточнее Клещееевки в водопропускной трубе железнодорожной насыпи. Заявлено применение FPV-дрона ВС РФ.
+
+ 48.53967, 37.97814 
+
+Источник https://t.me/russia_crew/15144</name>
+      <description>https://t.me/creamy_caprice/2660</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.97814,48.53967,0
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
