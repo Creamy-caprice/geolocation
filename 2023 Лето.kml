@@ -10873,5 +10873,26 @@ https://t.me/creamy_caprice/1489?single
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>21,10,23 Авдеевка - Красногоровка
+
+Активные боевые действия на северном охвате Авдеевки.
+Атака ВС РФ в направлении железнодорожной ветки к северной окраине Авдеевки несколькими единицами бронетехники под обстрелом со стороны ВСУ. Поражение бронетехники ВС РФ.
+
+ 48.18913, 37.70379 
+
+Дополнительно согласно https://t.me/creamy_caprice/2753?comment=37560
+
+ 48.18715, 37.70302 
+
+Источник 21+ (https://t.me/BUAR110ombr/139)</name>
+      <description>https://t.me/creamy_caprice/2753</description>
+      <styleUrl>#icon-1739-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          37.70302,48.18715,0
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
