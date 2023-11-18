@@ -11920,7 +11920,7 @@ https://t.me/nm_dnr/11260
       </Point>
     </Placemark>
     <Placemark>
-      <name><![CDATA[15,11,23 Очкаов
+      <name><![CDATA[15,11,23 Очаков
 
 Боевые действия в Николаевской области.
 Поражение барражирующим боеприпасом "Ланцет" радиолокационной станции ВСУ на берегу Днепровского залива около Очакова. Заявлено уничтожение П-18.
@@ -11934,6 +11934,533 @@ https://t.me/nm_dnr/11260
       <Point>
         <coordinates>
           31.507714,46.623306,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>14,11,23 Авдеевка - Промзона
+
+Активные боевые действия в районе Авдеевки.
+Танковая атака ВС РФ в Промзоне Авдеевки. Поражение танка ВС РФ FPV-дроном ВСУ. Эвакуация экипажа. Возгорание танка.
+
+ 48.11806, 37.79545 
+
+Дополнительно, согласно https://t.me/creamy_caprice/3085?comment=40375
+
+ 48.1185456, 37.7950320 
+
+Источник 21+ (https://t.me/rubpak/39)
+Геопривязка (https://t.me/c/1823685609/39744)</name>
+      <description>https://t.me/creamy_caprice/3085</description>
+      <styleUrl>#icon-1739-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          37.795032,48.1185456,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>15,11,23 Артёмовск - Андреевка
+
+Активные боевые действия на южном фланге Артёмовска.
+Атака ВСУ малым пехотным подразделением к югу от Андреевки. Артиллерийский обстрел штурмовой группы со стороны ВС РФ. Эвакуация раненых.
+
+ 48.49665, 37.97626 
+
+Источник https://t.me/yuzhny_front_ZOV/2065</name>
+      <description>https://t.me/creamy_caprice/3099</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.97626,48.49665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>15,11,23 Казачьи Лагери - Крынки
+
+Позиционные боевые действия на левом берегу Днепра.
+Артобстрел пехотного подразделения ВСУ в населённом пункте Крынки.
+
+ 46.728580, 33.071928 
+
+Источник https://t.me/Dnepro_Rub/1498
+Геопривязка (https://twitter.com/foosint/status/1724713669676749070)</name>
+      <description>https://t.me/creamy_caprice/3101</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          33.071928,46.72858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[15,11,23 Великая Новосёлка
+
+Контрбатарейная борьба в районе Великой Новосёлки.
+Применение барражирующего боеприпаса "Ланцет" для поражения артиллерийского орудия ВСУ на огневой позиции к востоку от Великой Новосёлки. Определена как AS-90.
+Удаление от линии боевого соприкосновения не менее 11км.
+
+ 47.8545, 36.90527 
+
+Источник https://t.me/voin_dv/5972]]></name>
+      <description>https://t.me/creamy_caprice/3104</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          36.90527,47.8545,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[15,11,23 Никополь - Лебединское
+
+Уничтожение средств ПВО ВСУ.
+Поражение барражирующим боеприпасом "Ланцет" зенитно-ракетного комплекса Бук М1 на исходной позиции в районе населённого пункта Лебединское.
+Удаление от мест дислокации ВС РФ около 45 км.
+Огневая позиция 
+
+ 47.90572, 34.43559 
+
+Исходная позиция
+
+ 47.89992, 34.43546
+
+Источник https://t.me/Dnepro_Rub/1500
+Геопривязка (https://t.me/c/1823685609/40058)]]></name>
+      <description>https://t.me/creamy_caprice/3106</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          34.43559,47.90572,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[14,11,23 Горловка - Шумы - Ленинское
+
+Активные боевые действия на Горловском направлении.
+Атака ВСУ пехотным подразделением к югу от посёлка Шумы в направлении карьера "Черная Курганка". Артобстрел со стороны ВС РФ штурмовой группы. 
+
+ 48.366089, 37.93836 
+
+Источник https://t.me/arbat_pyatnashka/134
+Геопривязка (https://twitter.com/foosint/status/1724867062009307138)]]></name>
+      <description>https://t.me/creamy_caprice/3108</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.93836,48.366089,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>15,1123 Орехов - Новопокровка
+
+Позиционные боевые действия на Ореховском направлении.
+Опорный пункт ВСУ на трассе Н-08 к югу от Новопокровки под обстрелом FPV-дроном ВС РФ.
+Военная техника ВСУ уничтоженная в ходе летнего наступления.
+Геопривязка так же по https://t.me/creamy_caprice/1062
+
+ 47.49214, 35.94212 
+
+Источник https://t.me/AstapZOV/977</name>
+      <description>https://t.me/creamy_caprice/3110</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          35.94212,47.49214,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>15,11,23 Орехов - Работино
+
+Позиционные боевые действия на Ореховском направлении.
+Обстрел позиции ВСУ на западе от Работино FPV-дроном ВС РФ.
+
+ 47.44747, 35.80539 
+
+Источник https://t.me/RVvoenkor/56671</name>
+      <description>https://t.me/creamy_caprice/3112</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          35.80539,47.44747,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>15,11,23 Орехов - Работино
+
+Боевые действия на Ореховском направлении
+Серия атак FPV-дронами ВС РФ военной техники ВСУ в посёлке Работино.
+
+ 47.44343, 35.83543 
+
+ 47.44328, 35.83387 
+
+Источник https://t.me/RVvoenkor/56671
+Геопривязка (https://t.me/c/1823685609/40172)</name>
+      <description>https://t.me/creamy_caprice/3114</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          35.83543,47.44343,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>15,11,23 Орехов - Работино
+
+Боевые действия на Ореховском направлении
+Серия атак FPV-дронами ВС РФ военной техники ВСУ в посёлке Работино.
+
+ 47.44343, 35.83543 
+
+ 47.44328, 35.83387 
+
+Источник https://t.me/RVvoenkor/56671
+Геопривязка (https://t.me/c/1823685609/40172)</name>
+      <description>https://t.me/creamy_caprice/3114?single</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          35.83387,47.44328,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16,11,23 Орехов - Димитрово
+
+Боевые действия в глубине обороны ВСУ.
+Удар по месту дислокации ВСУ в посёлке Димитрово Запорожской области. Заявлено поражение штаба 115 бригады ВСУ.
+Удаление от линии боевого соприкосновения около 20км.
+
+ 47.69039, 35.57844 
+
+Источник https://t.me/The_Wrong_Side/13092
+Геопривязка (https://t.me/c/1823685609/40230)</name>
+      <description>https://t.me/creamy_caprice/3117</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          35.57844,47.69039,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16,11,23 Херсон - Садовое
+
+Контрбатарейная борьба на правом берегу Днепра.
+Обстрел огневой позиции самоходной артиллерийской установки ВСУ 2С1 в районе Садового.
+Удаление от линии боевого соприкосновения около 10км.
+ 
+ 46.71883, 32.74623 
+
+Источник https://t.me/Juncker_ZOV/91
+ (https://t.me/c/1823685609/40251)Геопривязка (https://t.me/militarysummary/6131)</name>
+      <description>https://t.me/creamy_caprice/3119</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          32.74623,46.71883,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[16,11,23 Малиновка - Новоивановка
+
+Контрбатарейная борьба в районе Малиновки.
+Применение барражирующего боеприпаса "Ланцет" для обстрела самоходной гаубицы ВСУ 2С1 «Гвоздика». Успешное поражение и возгорание САУ.
+Удаление от линии боевого соприкосновения около 10км.
+
+ 47.783314, 36.492640 
+
+Источник https://t.me/voin_dv/5984
+Геопривязка (https://t.me/c/1823685609/40265)]]></name>
+      <description>https://t.me/creamy_caprice/3121</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          36.49264,47.783314,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16,11,23 Купянск - Синьковка
+
+Позиционные боевые действия на Купянском направлении.
+Военная техника ВСУ под обстрелом артиллерии ВС РФ во время ремонтно-эвакуационных мероприятий в лесном массиве в районе Синьковки.
+
+ 49.77245, 37.68442 
+
+Источник https://t.me/natoptishh/2075</name>
+      <description>https://t.me/creamy_caprice/3123</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.68442,49.77245,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16,11,23 Авдеевка - АКХЗ
+
+Активные боевые действия на северном охвате Авдеевки.
+Атака ВС РФ малым пехотным подразделением в направлении территории Авдеевского Коксохимического Завода. Обстрел штурмовой группы FPV-дроном ВСУ,
+
+ 48.18093, 37.70209 
+
+Источник 21+ (https://t.me/ssternenko/22599)</name>
+      <description>https://t.me/creamy_caprice/3125</description>
+      <styleUrl>#icon-1739-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          37.70209,48.18093,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16,11,23 Артёмовск - Богдановка
+
+Позиционные боевые действия на северном фланге Артёмовска.
+Пехотное подразделение ВСУ под артобстрелом со стороны ВС РФ в окрестностях населённого пункта Богдановка. 
+
+ 48.6227778, 37.9155556 
+
+Источник https://t.me/RVvoenkor/56742
+Геопривязка (https://t.me/c/1823685609/40303)</name>
+      <description>https://t.me/creamy_caprice/3126</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.9155556,48.6227778,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16,11,23 Орехов - Работино 
+
+Позиционные боевые действия на Ореховском направлении.
+Обстрел со стороны ВС РФ позиций ВСУ на западе от посёлка Работино.
+
+ 47.43565, 35.81166 
+
+ 47.43944, 35.81036 
+
+Источник https://t.me/RVvoenkor/56739
+Геопривязка (https://twitter.com/moklasen/status/1725255205871325338)</name>
+      <description>https://t.me/creamy_caprice/3128</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          35.81166,47.43565,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16,11,23 Орехов - Работино 
+
+Позиционные боевые действия на Ореховском направлении.
+Обстрел со стороны ВС РФ позиций ВСУ на западе от посёлка Работино.
+
+ 47.43565, 35.81166 
+
+ 47.43944, 35.81036 
+
+Источник https://t.me/RVvoenkor/56739
+Геопривязка (https://twitter.com/moklasen/status/1725255205871325338)</name>
+      <description>https://t.me/creamy_caprice/3128?single</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          35.81036,47.43944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17,11,23 Кременная - Ямполовка.
+
+Боевые действия на Торском выступе.
+БМП ВС РФ ведёт огонь по позиция ВСУ на оси Червонопоповка - Ямполовка.
+Огневая позиция 
+
+ 49.07457, 38.06413 
+
+Сектор обстрела
+
+ 49.0751, 38.0522 
+
+Источник https://t.me/btr80/12213</name>
+      <description>https://t.me/creamy_caprice/3130</description>
+      <styleUrl>#icon-1739-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          38.06413,49.07457,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17,11,23 Кременная - Ямполовка.
+
+Боевые действия на Торском выступе.
+БМП ВС РФ ведёт огонь по позиция ВСУ на оси Червонопоповка - Ямполовка.
+Огневая позиция 
+
+ 49.07457, 38.06413 
+
+Сектор обстрела
+
+ 49.0751, 38.0522 
+
+Источник https://t.me/btr80/12213</name>
+      <description>https://t.me/creamy_caprice/3130?single</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          38.0522,49.0751,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17,11,23 Авдеевка - Промзона
+
+Боевые действия в районе Авдеевки.
+Передовая позиция ВС РФ на северной границе Авдеевской Промзоны под обстрелом с дрона ВСУ.
+
+ 48.121508, 37.786838 
+
+Источник 21+ (https://twitter.com/Teoyaomiquu/status/1725298442551890294)
+Геопривязка (https://twitter.com/giK1893/status/1725302238413734367)</name>
+      <description>https://t.me/creamy_caprice/3132</description>
+      <styleUrl>#icon-1739-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          37.786838,48.121508,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17,11,23 Горловка - Ленинское
+
+Активные боевые действия в районе Горловки.
+Штурмовое подразделение ВСУ под обстрелом со стороны ВС РФ на терриконе шахты им. Гагарина.
+
+ 48.3613, 37.94151
+
+Источник https://t.me/rezervsvo/38060
+Геопривязка (https://t.me/c/1823685609/40359)</name>
+      <description>https://t.me/creamy_caprice/3141</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.94151,48.3613,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17,11,23 Соледар - Зализнянское
+
+Позиционные боевые действия на Соледарском направлении.
+Обстрел артиллерией ВС РФ позиции ВСУ на оборонительном рубеже ВСУ по линии Зализнянское - Васюковка.
+
+ 48.713178, 37.979752 
+
+Источник https://t.me/kbskif/265
+Геопривязка (https://twitter.com/foosint/status/1725442839234904070)</name>
+      <description>https://t.me/creamy_caprice/3143</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.979752,48.713178,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17,11,23 Артёмовск - Андреевка
+
+Боевые действия на южном фланге Артёмовска.
+Обстрел FPV-дроном ВС РФ оставленного бронетранспортёра М-113 ВСУ севернее Андреевки.
+
+ 0:37 - 48.50515, 37.96913 
+
+Источник https://t.me/sudoplatov_official/793</name>
+      <description>https://t.me/creamy_caprice/3146</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.96913,48.50515,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17,11,23 Казачьи Лагери - Крынки
+
+Применение средств сверхмалой беспилотной авиации для распространения агитационных материалов на позиции ВСУ в населённом пункте Крынки на левом берегу Днепра.
+
+ 46.73216, 33.07738 
+
+ Источник @Dnepro_Rub</name>
+      <description>https://t.me/creamy_caprice/3148</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          33.07738,46.73216,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17,11,23 Орехов - Работино
+
+Активные боевые действия на Ореховском направлении.
+Атака FPV-дроном ВС РФ танка ВСУ при возвращении с огневой позиции. на трассе Орехов - Работино.
+
+ 47.4985, 35.80989 
+
+Источник https://t.me/BOBRMORF/371</name>
+      <description>https://t.me/creamy_caprice/3150</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          35.80989,47.4985,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[17,11,23 Авдеевка - Уманское
+
+Контрбатарейная борьба на Авдеевском направлении.
+Успешное поражение барражирующим боеприпасом "Ланцет" самоходной артиллерийской установки ВСУ 2С1 «Гвоздика» на огневой позиции. Окраина посёлка Уманское около Авдеевки.
+Удаление от линии боевого соприкосновения до 7км.
+
+ 48.148000, 37.556100 
+
+Источник https://t.me/btr80/12219
+Геопривязка (https://twitter.com/DrazaM33/status/1725631379151507880) ⚡️ДражаМ⚡️]]></name>
+      <description>https://t.me/creamy_caprice/3152</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          37.5561,48.148,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>17,11,23 Орехов - Работино
+
+Активные боевые действия на Ореховском направлении.
+Обстрел со стороны ВС РФ FPV-дроном боевой машины пехоты ВСУ севернее Работино.
+
+ 47.465000, 35.839300 
+
+Источник https://t.me/BOBRMORF/370
+Геопривязка (https://twitter.com/DrazaM33/status/1725613951185207691)⚡️ДражаМ⚡️</name>
+      <description>https://t.me/creamy_caprice/3154</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          35.8393,47.465,0
         </coordinates>
       </Point>
     </Placemark>
