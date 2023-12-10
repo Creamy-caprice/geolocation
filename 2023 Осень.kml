@@ -111,6 +111,45 @@
       </Pair>
     </StyleMap>
     <Placemark>
+      <name>25,11,23 Авдеевка - Промзона
+
+Боевые действия в Авдеевке.
+Поврежденный на минном заграждении танк ВС РФ. Эвакуация экипажа. Обстрел повреждённого танка FPV-дроном ВСУ.
+Согласно https://t.me/creamy_caprice/3505?comment=46581 события от 25.11.23.
+
+ 48.11802, 37.78935 
+
+Источник https://t.me/atypical_dalnegorsk/10096
+Геопривязка (https://t.me/c/1823685609/46514)</name>
+      <description>https://t.me/creamy_caprice/3505</description>
+      <styleUrl>#icon-1739-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          37.78935,48.11802,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>25,09,23 Херсон - Киселёвка
+
+Боевые действия в глубине обороны ВСУ.
+Ракетный удар со стороны ВС РФ по месту складирования боеприпасов ВСУ. Успешное поражение, вторичная детонация.
+Опубликовано 08,12,23.
+Согласно https://t.me/mod_russia_en/9952 событие от 25,09,23
+
+ 46.76572, 32.41434 
+ 
+Источник https://t.me/antiseptic_channel/4287
+Геопривязка (https://t.me/c/1823685609/46354?thread=46344)</name>
+      <description>https://t.me/creamy_caprice/3497</description>
+      <styleUrl>#icon-1739-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          32.41434,46.76572,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>01,09,23 Кременная - Красный Лиман - Торское
 
 Позиционные боевые действия на оси Кременная - Красный Лиман.
