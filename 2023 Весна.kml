@@ -9150,5 +9150,26 @@ https://www.youtube.com/watch?v=1sdgXq2CYoA</name>
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name><![CDATA[14,05,23 Северск - Звановка
+
+Контрбатарейная борьба на Северском направлении.
+Применение барражирующего боеприпаса "Ланцет" сотрудниками ЧВК "Вагнер" для обстрела САУ "Krab" ВСУ.
+Успешное поражение, детонация боекомплекта. Удаление от линии боевого соприкосновения около 7км.
+Видео архивное 14,05,23. Опубликовано 17,12,23
+Геопривязка по https://t.me/razgruzka_vagnera/104
+ 
+ 48.8057, 38.0843 
+
+Источник https://t.me/rusich_army/12246
+Геопривязка (https://t.me/c/1823685609/49497?thread=49421)]]></name>
+      <description>https://t.me/creamy_caprice/3631</description>
+      <styleUrl>#icon-1739-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          38.0843,48.8057,0
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
